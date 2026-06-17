@@ -71,7 +71,7 @@ python3 -m http.server 49242
 
 ## Ressources
 
-## Documentation sur la configuration d'un réseau
+### Documentation sur la configuration d'un réseau
 
 - [Le routage IP statique](https://fr.wikibooks.org/wiki/R%C3%A9seaux_TCP/IP/Le_routage_IP_statique)
 - [TCP/IP Addressing](https://web.archive.org/web/20221003073118/https://sites.ualberta.ca/dept/chemeng/AIX-43/share/man/info/C/a_doc_lib/aixbman/commadmn/tcp_address.htm)
@@ -79,7 +79,7 @@ python3 -m http.server 49242
 - [Qu’est ce qu’un switch informatique ?](https://talice.com/actualites/quest-ce-quun-switch)
 - [IP address](https://en.wikipedia.org/wiki/IP_address)
 
-## Utilisation de l'IA
+## # Utilisation de l'IA
 
 - Relecture et traduction en anglais du README
 
