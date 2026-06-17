@@ -79,7 +79,7 @@ python3 -m http.server 49242
 - [Qu’est ce qu’un switch informatique ?](https://talice.com/actualites/quest-ce-quun-switch)
 - [IP address](https://en.wikipedia.org/wiki/IP_address)
 
-## Utilisation de l'IA
+### Utilisation de l'IA
 
 - Relecture et traduction en anglais du README
 
