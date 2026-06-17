@@ -85,5 +85,5 @@ python3 -m http.server 49242
 
 ---
 
-**Dernière modification:** 17 juin 2026
+**Dernière modification:** 17 juin 2026\
 **Contact :** alebaron@student.42lehavre.fr
