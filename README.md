@@ -10,8 +10,6 @@
 <div align="center">
   <p>
       <img src="https://img.shields.io/badge/score-100%20%2F%20100-success?style=for-the-badge" />
-      <img src="https://img.shields.io/github/languages/count/alizealebaron/netPractice?style=for-the-badge&logo=" />
-      <img src="https://img.shields.io/github/languages/top/alizealebaron/netPractice?style=for-the-badge" />
       <img src="https://img.shields.io/github/last-commit/alizealebaron/netPractice?style=for-the-badge" />
   </p>
 </div>
